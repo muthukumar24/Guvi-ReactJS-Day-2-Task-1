@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 This Repository is created for submitting the allocated task from React JS Day 2 session.
 
-The given task is to create a Price Card using React JS. I have created an array of datas to create price card, then I have passed the array datas through props and We can add more datas in this array, the price card will be created for the datas available in array. Included Bootstrap for responsiveness across all devices.
+The given task is to create a Price Card using React JS. I have created an array of datas named "cardData" in CardContainer.jsx to create price card, then I have passed the array datas through props from CardContainer.jsx to Card.jsx and We can add more datas in "cardData" array, the price card will be created for the datas available in "cardData" array. Included Bootstrap for responsiveness across all devices.
 
 Please refer the following files for Source Code:
 - index.html
