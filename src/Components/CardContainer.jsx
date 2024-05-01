@@ -53,7 +53,7 @@ export default function Cardcontainer(){
                   {/* Using Map method to create cards according to the number of datas available in cardData array */}
                   {cardData.map((element, index) => (
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4" key={index}>
-                      {/* Card Conponent */}
+                      {/* Card Component */}
                       <Card   
                         titleone={element.headerone} // Passing data using Props
                         titletwo={element.headertwo} // Passing data using Props 
