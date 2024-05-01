@@ -71,7 +71,7 @@
 @media screen and (max-width: 576px){
     #card-area
      {
-        width: 80%;
+        width: 80% !important;
         margin: auto; 
      }
 }
